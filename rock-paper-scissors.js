@@ -112,7 +112,7 @@ function playGame(playerMove) {
 
 function updateScoreElement() {
     document.querySelector('.js-score')
-        .innerHTML = `Wins: ${score.wins}-----Losses: ${score.losses}-----Ties: ${score.ties}`
+        .innerHTML = `Wins: ${score.wins} ----- Losses: ${score.losses} ----- Ties: ${score.ties}`
 
 }
 

@@ -1,28 +1,37 @@
 # Rock Paper Scissors
 
-[Live Demo](https://tanmayhutt.github.io/rock-paper-scissors/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://tanmayhutt.github.io/rock-paper-scissors/)
 
-A fun, interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript.
+A simple and interactive **Rock Paper Scissors** game built with **HTML, CSS, and JavaScript**.  
+Challenge the computer, keep track of your score, and explore the auto-play feature.
+
+---
 
 ## Features
-- Bullet point list of features (e.g., play vs CPU, reset score, autoplay)
-- ...etc.
+- 🎮 Classic Rock–Paper–Scissors gameplay
+- 🤖 Play against a computer opponent
+- 📊 Real-time score tracking
+- 🔄 Reset score anytime
+- ⚡ Auto Play mode for continuous gameplay
+- 📱 Responsive design for desktop and mobile
+
+---
 
 ## Demo
-Describe the interface and gameplay briefly.
+👉 [Play the Game](https://tanmayhutt.github.io/rock-paper-scissors/)
 
-## Installation / Usage
-1. Clone the repo.
-2. Open `index.html` (or run local server).
-3. Controls and keyboard/mouse description.
+---
 
 ## Technologies
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+- **HTML5** – Markup structure  
+- **CSS3** – Styling and layout  
+- **JavaScript (ES6+)** – Game logic and interactivity  
 
-## Development
-(Optional) Any notes on how to use, modify, or extend the project
+---
 
-## License
-(Your choice, e.g., MIT)
+## Getting Started
+
+### Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tanmayhutt/rock-paper-scissors.git
